@@ -458,7 +458,7 @@ img {
 
 .footer__logo {
   width: 100%; /* Make the logo responsive */
-  max-width: 200px; /* Set a maximum width for the logo */
+  max-width: 100px; /* Set a maximum width for the logo */
   height: auto; /* Maintain aspect ratio */
 }
 
